@@ -3,6 +3,10 @@
 A full-stack web application for a dynamic and feature-rich online bookstore where users can browse, select, and purchase books. The project showcases key functionalities such as user authentication, shopping cart management, order placement, and confirmation.
 
 ---
+## Access link
+http://webdev.cs.vt.edu:8080/AlipBookstoreReactTransact/
+
+---
 
 ## Features
 
