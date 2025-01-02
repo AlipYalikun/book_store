@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/AlipBookstoreReactTransact/static/css/main.aff6bff9.css",
+    "main.js": "/AlipBookstoreReactTransact/static/js/main.65fa318e.js",
+    "static/js/453.419a5d54.chunk.js": "/AlipBookstoreReactTransact/static/js/453.419a5d54.chunk.js",
+    "static/media/fa-solid-900.ttf": "/AlipBookstoreReactTransact/static/media/fa-solid-900.ad1782c70927ebc5bc87.ttf",
+    "static/media/gb.jpg": "/AlipBookstoreReactTransact/static/media/gb.23fc62e0a6d955429d41.jpg",
+    "static/media/fa-brands-400.ttf": "/AlipBookstoreReactTransact/static/media/fa-brands-400.26b80c8830bebf340211.ttf",
+    "static/media/fa-solid-900.woff2": "/AlipBookstoreReactTransact/static/media/fa-solid-900.83a538a018a9e44b023a.woff2",
+    "static/media/fa-brands-400.woff2": "/AlipBookstoreReactTransact/static/media/fa-brands-400.fdbb558523a380307689.woff2",
+    "static/media/hero.jpg": "/AlipBookstoreReactTransact/static/media/hero.43d78a63288be876a2e6.jpg",
+    "static/media/fa-regular-400.ttf": "/AlipBookstoreReactTransact/static/media/fa-regular-400.05fdd87be89f7f8f0a1e.ttf",
+    "static/media/pride.jpg": "/AlipBookstoreReactTransact/static/media/pride.6165ff710863fd79a955.jpg",
+    "static/media/moby.jpg": "/AlipBookstoreReactTransact/static/media/moby.58df3f4883c3ca3b0a39.jpg",
+    "static/media/bird.jpg": "/AlipBookstoreReactTransact/static/media/bird.d5bcf82b0c55371e9b6a.jpg",
+    "static/media/1005.jpg": "/AlipBookstoreReactTransact/static/media/1005.e95da4661b9486927706.jpg",
+    "static/media/fa-regular-400.woff2": "/AlipBookstoreReactTransact/static/media/fa-regular-400.4f6a2dabee9c092d09b9.woff2",
+    "static/media/1004.jpg": "/AlipBookstoreReactTransact/static/media/1004.8fa25846d932db76075a.jpg",
+    "static/media/fa-v4compatibility.ttf": "/AlipBookstoreReactTransact/static/media/fa-v4compatibility.fa86b3c85e77abbd2ebd.ttf",
+    "static/media/fa-v4compatibility.woff2": "/AlipBookstoreReactTransact/static/media/fa-v4compatibility.c3ea317a0f10f201597f.woff2",
+    "index.html": "/AlipBookstoreReactTransact/index.html",
+    "main.aff6bff9.css.map": "/AlipBookstoreReactTransact/static/css/main.aff6bff9.css.map",
+    "main.65fa318e.js.map": "/AlipBookstoreReactTransact/static/js/main.65fa318e.js.map",
+    "453.419a5d54.chunk.js.map": "/AlipBookstoreReactTransact/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aff6bff9.css",
+    "static/js/main.65fa318e.js"
+  ]
+}
